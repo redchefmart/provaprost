@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+img {
+  width: 90%;
+  margin-bottom: 20px;
+}
+
